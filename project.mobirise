@@ -1,0 +1,3982 @@
+{
+  "settings": {
+    "name": "mbr3.okad.com.br",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Open Sans",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#28262b",
+        "#acffa4",
+        "#d4fad0"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
+    "versionFirst": "4.7.2",
+    "uniqCompNum": 103,
+    "versionPublish": "4.9.5",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Agência de Marketing Digital e Mídias Sociais",
+        "meta_descr": "Somos uma agência de marketing digital em mídias sociais. Gerenciamos perfis nas redes sociais, criamos anúncios para atrair novos clientes.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "showTitles": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "DÊ VISIBILIDADE A SUA EMPRESA NA INTERNET",
+          "text": "<br>O marketing da sua empresa é tão importante quanto seu produto, por isso oferecemos um trabalho com objetivo e inteligência.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"planos.html#pricing-table2-q\" data-toolbar=\"-mbrBtnMove\"><strong>CONHEÇA OS NOSSOS PLANOS</strong></a>",
+          "title1": "Instagram",
+          "title2": "Facebook",
+          "title3": "Subsite",
+          "title4": "Inbound Marketing",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "facebook-official",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "unlink",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "filter",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#e6e6e6",
+              "newWindow": false
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extHeader3",
+          "_anchor": "extHeader3-2",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "46px"
+            },
+            "P": {
+              "font-size": "21px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "animText1": "CAMPANHAS",
+            "animText2": "LEADS",
+            "animText3": "ESTRATÉGIA",
+            "typeSpeed": "80",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box2_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "INBOUND MARKETING <br>=<br>",
+          "text": "O Inbound Marketing surge para direcionar o conteúdo e focá-lo com propósito, promover vendas, alcançar metas, objetivos e criar campanhas. Entendendo as pessoas com profundidade, as redes sociais ajudam a potencializar o alcance do conteúdo. A estratégia é composta por quatro etapas principais: Atração, Conversão, Fechamento e Fidelização. O Inbound começa com o objetivo de atrair visitantes para as suas redes e gerar leads (uma pessoa que tem, de alguma forma, interesse nos produtos ou serviços da sua empresa.) E termina com um cliente satisfeito que tende a promover sua marca de forma altamente positiva, gerando novos clientes para o negócio.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-right mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(239, 239, 239);\"></span>CONHEÇA MAIS&nbsp;</a> ",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extMsg-box2",
+          "_anchor": "extMsg-box2-g",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "EXPERIÊNCIAS",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-i",
+          "_customCSS": "#okad-clients a {\n    height: 160px;\n    width: 100%;\n    display: inline-block;\n    vertical-align: top;\n    position: relative;\n    margin-bottom: 10px;\n}\n#okad-clients a>img {\n    max-height: 100%;\n    max-width: 100%;\n    width: auto;\n    height: auto;\n    position: absolute;\n    top: 0;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    margin: auto;\n    padding: 10px;\n\tfilter: url(data:image/svg+xml;utf8;base64,Jmx0O3N2ZyB4bWxucz1cJ2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCcmZ3Q7Jmx0O2ZpbHRlciBpZD1cJ2dyYXlzY2FsZVwnJmd0OyZsdDtmZUNvbG9yTWF0cml4IHR5cGU9XCdtYXRyaXhcJyB2YWx1ZXM9XCcwLjMzMzMgMC4zMzMzIDAuMzMzMyAwIDAgMC4zMzMzIDAuMzMzMyAwLjMzMzMgMCAwIDAuMzMzMyAwLjMzMzMgMC4zMzMzIDAgMCAwIDAgMCAxIDBcJy8mZ3Q7Jmx0Oy9maWx0ZXImZ3Q7Jmx0Oy9zdmcmZ3Q7I2dyYXlzY2FsZQ==);\n\tfilter: gray;\n\t-webkit-filter: grayscale(100%);\n    background-color: transparent!important;\n    \n    display: block;\n    max-width: 100%;\n    height: auto;\n}\n#okad-clients a>img:hover {\n\tfilter: url(data:image/svg+xml;utf8;base64,Jmx0O3N2ZyB4bWxucz1cJ2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCcmZ3Q7Jmx0O2ZpbHRlciBpZD1cJ2dyYXlzY2FsZVwnJmd0OyZsdDtmZUNvbG9yTWF0cml4IHR5cGU9XCdtYXRyaXhcJyB2YWx1ZXM9XCcxIDAgMCAwIDAsIDAgMSAwIDAgMCwgMCAwIDEgMCAwLCAwIDAgMCAxIDBcJy8mZ3Q7Jmx0Oy9maWx0ZXImZ3Q7Jmx0Oy9zdmcmZ3Q7I2dyYXlzY2FsZQ==);\n\t-webkit-filter: grayscale(0%)\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"154\" style=\"background-color: rgb(255, 255, 255); padding-top: 30px; padding-bottom: 30px;\" id=\"okad-clients\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px;\" code-editable-id=\"28\">EXPERIÊNCIAS</h3>\n            </div>\n            \n        </div>\n        <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/cavok.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/heringfeira.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/fernandocabeleireiro.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/bicho.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/puc.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/keropizza.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/multibel.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/nativosseg.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/levaetraz.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/Paulista.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/farmaciabigfort.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/polimoda.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/frederico.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/iob.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/uroclinica.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/ultrapopular.png\" class=\"img-responsive grayscale\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/drguilherme.png\" class=\"img-responsive grayscale\"></a></div>\n            </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-d",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4"
+        }
+      ]
+    },
+    "contato.html": {
+      "settings": {
+        "meta_descr": "Entre em contato com a Ok! Anuncie e tire dúvidas relacionadas aos nossos serviços, planos e preços de marketing digital e gerenciamento de redes sociais.",
+        "title": "Tem alguma dúvida sobre nossos serviços? Entre em contato",
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "LIGUE PARA (75) 99112-5476",
+          "subtitle": "OU ESCREVA PARA NÓS",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR MENSAGEM</a>",
+          "form": {
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada com sucesso. Em breve entraremos em contato com você."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-m",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-k",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l"
+        }
+      ]
+    },
+    "planos.html": {
+      "settings": {
+        "meta_descr": "Planos da OK! ad. para gerenciar mídias sociais como Facebook e Instagram e criação de propaganda para atrair novos clientes. Confira nossos planos.",
+        "title": "Planos para gerenciamento e criação de conteúdo em mídias sociais",
+        "order": 8,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-n"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "More details",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Plano_INBOUND.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"assets/files/Plano_SIMPLES.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"assets/files/Plano_SUPER.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Plano_MEGA.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "title": "NOSSOS PLANOS",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "INBOUND",
+          "title2": "MEGA",
+          "title3": "SUPER",
+          "title4": "SIMPLES",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mo.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">Criação diária</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Direct Lead</li><li class=\"list-group-item\">Subsite</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">10 criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Subsite</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">8 criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">5 Criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-q",
+          "_customCSS": ".card-text {\n    display: none;\n}\n\n.mbr-plan .card-title {\n    margin-bottom: 0;\n}\n\n.mbr-plan-header {\n    padding: 2rem 0;\n}\n\nsmall.mbr-plan-subtitle {\n    display: none;\n}\n\n.mbr-plan-list {\n    padding-top: 0;\n}\n\n.mbr-plan-body.card-block {\n    padding-top: 1rem;\n}"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "More details",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "title": "PRICING TABLE",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "STANDARD",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mo.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-2t"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-o",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-p"
+        }
+      ]
+    },
+    "inbound-marketing.html": {
+      "settings": {
+        "meta_descr": "O Inbound começa com o objetivo de atrair para o seu site e suas redes sociais pessoas com interesse nos produtos ou serviços da sua empresa.",
+        "title": "Inbound Marketing",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "showTitles": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/inbound-marketing-2000x1373.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "INBOUND MARKETING\n",
+          "text": "Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title1": "ATRAIR",
+          "title2": "CONVERTER",
+          "title3": "FECHAR",
+          "title4": "FIDELIZAR",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extHeader3",
+          "_anchor": "extHeader3-y",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "ETAPAS DO INBOUND MARKETING",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11"
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
+          },
+          "title1": "Atração",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Atrair pessoas interessadas para as redes sociais e gerar leads",
+          "title2": "Conversão",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Converter os leads gerados em clientes",
+          "title3": "Fechamento&nbsp;",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Fechar neócio com o cliente",
+          "title4": "Fidelização",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Fidelizar o cliente para que ele volte a comprar",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background1": "1",
+          "background2": "2",
+          "background3": "3",
+          "background4": "4",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extFeatures14",
+          "_anchor": "extFeatures14-10",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            },
+            "H3": {
+              "color": "#d4fad0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": false,
+            "tabs": "6",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>COMO FAZEMOS ACONTECER</b>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseOne_358\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Lead</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseTwo_358\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Instagram</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseThree_358\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Impulsionamento</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseFour_358\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Facebook</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseFive_358\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Subsite</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_358\" data-core=\"\" href=\"#collapseSix_358\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Aplicativo</a>",
+          "text1": "<p>Lead é uma pessoa que tem, de alguma forma, interesse nos produtos ou serviços da sua empresa. Iremos monitorar de perto os comentários, e fazer uma gestão de inbound (atrair o visitante) para que ele possa virar um possível cliente, iremos fazer isso por meio de um e-mail marketing, por conversas inbox ou direct. Todos os leads serão acompanhados de perto com cuidado e os perfis avaliados.\n</p>",
+          "text2": "<p>Você tem direito a criação e gestão de um instagram com foto personalizada. Todo dia será publicada uma postagem que pode ser (criação, foto, vídeo ou compartilhamento). Se já tiver um instagram criado, iremos fazer a gestão.\n</p>",
+          "text3": "<p>As publicações impulsionadas são exibidas em destaque no Feed de Notícias e no Instagram, por isso as chances são maiores de serem exibidas ao seu público. O custo para impulsionar uma publicação depende de quantas pessoas você deseja alcançar.\n</p><p>\n</p><p>Ao escolher o orçamento, você terá uma ideia de quantas pessoas a publicação impulsionada poderá alcançar, com base nas opções de orçamento e direcionamento escolhidas. Se você quiser ter um alcance maior, podemos aumentar o orçamento ou atualizar as preferências de direcionamento para perceber como diferentes fatores podem influenciar o alcance.</p>",
+          "text4": "<p>Você tem direito a criação e gestão de sua fan page com foto de capa e perfil personalizada. Todo dia será publicada uma postagem que pode ser (criação, foto, vídeo ou compartilhamento). Se já tiver uma fan page criada, iremos fazer a gestão.\n</p>",
+          "text5": "<p>Todas as postagens serão colocadas em nosso site <b>www.okad.com.br</b> aumentando sua visibilidade na busca do google. Iremos preparar uma página em nosso site com todas as publicações feitas para sua empresa ou produto, podendo a url ser personalizada.</p>",
+          "text6": "<p>Todos as postagens serão publicadas em nosso aplicativo para smartphone, tablet e iphone.\n</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-12",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-t",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    },
+    "criacao-de-logos.html": {
+      "settings": {
+        "meta_descr": "Identidade visual da empresa com criação de logomarcas, panfletos, folders, posts para redes sociais e manual para utilização da identidade visual da empresa",
+        "title": "Identidade Visual: criação de logos e artes para impressão",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/criar-logo-bg-2000x1887.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/criar-logo-ind-centro-2475x2186.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "layers",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "video",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "FEATURES",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "Innovative ideas",
+          "feature_subtitle1": "Creative and intelligent solutions",
+          "feature_text1": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title2": "Retina ready",
+          "feature_subtitle2": "High resolution screens friendly",
+          "feature_text2": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "Totally responsive",
+          "feature_subtitle4": "Suits well all devices and screen sizes",
+          "feature_text4": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title5": "Sharp solutions",
+          "feature_subtitle5": "Elaborated code and trendy design",
+          "feature_text5": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-17",
+          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"113\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/criar-logo-bg.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\t<div class=\"mbr-section mbr-section-nopadding\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"col-xs-12 text-xs-center\">\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<div class=\"icon-features\">\n\t\t<div class=\"features6-container container\">\n\t\t\t<div class=\"features-left col-xl-4\">\n\t\t\t\t<div class=\"features-box\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-3.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"features-box last\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-1.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/criar-logo-ind-centro.png\" class=\"central-image\"></div>\n\t\t\t<div class=\"features-right col-xl-4\">\n\t\t\t\t<div class=\"features-box\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-2.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"features-box last\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-4.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".feature-title, .description {\n  color: #232323;\n}\n.feature-subtitle {\n  color: #8c8c8c;\n}\nimg.featured-cover-items-img {\n    max-width: 60%;\n    padding-top: 2rem;\n    padding-bottom: 2rem;\n}",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FÁBRICA DE CRIAÇÕES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato.html#form1-m\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTO</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"criacao-de-logos.html#extFeatures3-18\" data-toolbar=\"-mbrBtnMove\">QUERO SABER MAIS</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.8
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "print",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "share-alt",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "note-book-write",
+              "family": "icon54-v3",
+              "active": true,
+              "link": "javascript://",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "title1": "Materiais impressos",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Fazemos arte para materiais impressos como panfletos, folders e cartões de visitas.",
+          "title2": "Redes Sociais\n",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Criação de posters para as redes sociais com foco no que você precisa divulgar e atrair.",
+          "title3": "Logomarcas e identidade visual",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Criação e reformulação de logomarca e identidade visual da empresa como o todo.",
+          "title4": "Manual da marca\r",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "O manual da marca é um norte para manter a identidade visual unifomizada.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extFeatures3",
+          "_anchor": "extFeatures3-18",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": false,
+                "text": "A minha empresa tem 10 anos e tinha apenas uma logomarca simples. Depois de contratar eu tenho uma identidade visual completa com a logomarca reformulada e fardamentos padronizados. Excelente trabalho!",
+                "authorName": "Antônia Brandão",
+                "authorBio": "Empresária",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "Abri uma empresa no ramo alimentício e precisava de uma identidade visual para atuar no mercado. O material produzido é excelente. Ótimo custo benefício.",
+                "authorName": "Paulo Andrade",
+                "authorBio": "Empresário",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>Estava precisando de uma arte de qualidade para panfletos e folders da minha franquia. O trabalho entregue pela Ok! Ad foi espetacular. Parabéns!</p>",
+                "authorName": "Rita de Cássia",
+                "authorBio": "Gerente",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "DEPOIMENTOS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extTestimonials1",
+          "_anchor": "extTestimonials1-1a",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-14",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15"
+        }
+      ]
+    },
+    "sobre-a-okad.html": {
+      "settings": {
+        "meta_descr": "A Ok! Ad é uma agencia de marketing digital e mídias sociais com mais de 250 clientes em todo o Brasil",
+        "title": "Sobre a Ok! Ad",
+        "order": 5,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "QUEM SOMOS?",
+          "meta": "Somos profissionais do marketing em mídias sociais",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fazemos um trabalho completo de gestão de mídia social!! Envolve planejamento, criação de estratégias, gestão de comentários, postagem, criação de texto, engajamento, impulsionamento, crescimento de seguidores qualificados e reais, busca por leads, relatórios... enfim tudo que você precisa para uma gestão única e com qualidade para suas redes sociais. Além de contarmos com imagens licenciadas, social media, plataformas especializadas, e profissionais qualificados.&nbsp;<span style=\"font-size: 1.07rem;\">🚀 🚀 🚀&nbsp;</span></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"time-da-okad.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v2-group-2 mbr-iconfont mbr-iconfont-btn\"></span>CONHEÇA NOSSO TIME</a>  ",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l"
+        },
+        {
+          "_params": {
+            "showTitles": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extTabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.2
+          },
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2k\" aria-expanded=\"true\">MISSÃO</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2k\" aria-expanded=\"false\">VISÃO</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2k\" aria-expanded=\"false\">VALORES</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2k\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2k\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2k\">Beautiful</a></li>",
+          "text1": "Proporcionar uma experiência incrível de gerenciamento em redes sociais, onde cada cliente tem uma equipe trabalhando de maneira criativa no meio do marketing digital para que pessoas se interessem pelo seu negócio.",
+          "text2": "Trabalhar de forma profissional para que cada cliente tenha um atendimento incrível por meio dos melhores profissionais e com as melhores plataformas.",
+          "text3": "Cada cliente se torna um parceiro e essa parceria é o que torna o meio do marketing digital descontraída, alegre e construtiva de uma forma com que cada parceiro sinta se especial e a vontade para conversar com a nossa equipe",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extTabs1",
+          "_anchor": "extTabs1-2k"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1d"
+        }
+      ]
+    },
+    "time-da-okad.html": {
+      "settings": {
+        "meta_descr": "Nosso time é mais do que qualificado, pois é composto por especialistas",
+        "title": "Time da Ok! Ad",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showIcons": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alice-pereira-funo-gestora-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Alice Pereira",
+              "title": "Alice Pereira"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/antonio-ferreira-diretor-de-arte-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Antonio Ferreira",
+              "title": "Antonio Ferreira"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cecilia-gestora-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Cecilia",
+              "title": "Cecilia"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/itaciria-souza-funo-gestora-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Itaciria Souza",
+              "title": "Itaciria Souza"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jssica-dos-santos-funo-gestora-600x804.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Jéssica dos Santos",
+              "title": "Jéssica dos Santos"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/laze-farias-funo-gestora-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Laíze Farias",
+              "title": "Laíze Farias"
+            }
+          },
+          "title": "NOSSO TIME",
+          "subtitle": "Nosso time é mais do que qualificado, pois é composto por especialistas",
+          "title1": "Alice Pereira<br>Gestora",
+          "subtitle1": "Programmer",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Antonio Ferreira<br>Diretor de Arte",
+          "subtitle2": "SEO",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Cecilia<br>Gestora",
+          "subtitle3": "Manager",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Itaciria Souza\r<div>Gestora</div>",
+          "subtitle4": "Reception",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Jéssica dos Santos\r<div>Gestora</div>",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Laíze Farias\r<div>Gestora</div>",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-1n",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/leticia-farias-funo-gestora-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Leticia Farias",
+              "title": "Leticia Farias"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lidia-farias-gestora-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Lidia Farias",
+              "title": "Lidia Farias"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nathaly-mendes-funo-gestora-600x1067.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Nathaly Mendes",
+              "title": "Nathaly Mendes"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Leticia Farias\r<div>Gestora</div>",
+          "subtitle1": "Programmer",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Lidia Farias\r<div>Gestora</div>",
+          "subtitle2": "SEO",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Nathaly Mendes\r<div>Gestora</div>",
+          "subtitle3": "Manager",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Emily Brown\r<div>Gestora</div>",
+          "subtitle4": "Reception",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "James Evans\r<div>Gestora</div>",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Daniel Walker\r<div>Gestora</div>",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-1l"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        }
+      ]
+    },
+    "entre-pro-time-da-okad.html": {
+      "settings": {
+        "meta_descr": "Trabalho freelancer para criação de arte gráfica e postagens para as redes sociais",
+        "title": "Entre pro time da Ok! Ad",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader10.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0
+          },
+          "title": "TRABALHE CONOSCO",
+          "text": "Nós estamos sempre expandindo e em busca de novos colaboradores para compor o nosso time.\n<br>Está interessado(a)? Preencha o formulário abaixo.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"time-da-okad.html\" data-toolbar=\"-mbrBtnMove\">CONHEÇA O NOSSO TIME</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Seus dados foram enviados."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Fone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Mensage"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extHeader10",
+          "_anchor": "extHeader10-1v",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-1r"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1s"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Clientes",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "ONDE ESTÃO NOSSOS CLIENTES",
+          "meta": "CLIENTES SATISFEITOS EM TODO O BRASIL",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-23"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "SUBSITES",
+          "meta": "PÁGINAS PERSONALIZADAS DOS NOSSOS CLIENTES\n<br>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_customCSS": ""
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "EXPERIÊNCIAS",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons1",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"154\" style=\"background-color: rgb(255, 255, 255); padding-top: 30px; padding-bottom: 30px;\" id=\"okad-clients\">\n    <div class=\"container\">\n        <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/cavok.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/heringfeira.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/fernandocabeleireiro.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/bicho.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/puc.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/keropizza.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/multibel.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/nativosseg.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/levaetraz.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/Paulista.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/farmaciabigfort.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/polimoda.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/frederico.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/iob.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/uroclinica.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/ultrapopular.png\" class=\"img-responsive\"></a></div>\n                <div class=\"col-xs-12 col-lg-2 col-md-4 col-sm-4\"><a class=\"okad-client-list-link no-bg\" href=\"javascript://\" title=\"\"><img alt=\"\" title=\"\" src=\"https://www.okad.com.br/logos/drguilherme.png\" class=\"img-responsive\"></a></div>\n            </div>\n    </div>\n</section>",
+          "_customCSS": "#okad-clients a {\n    height: 160px;\n    width: 100%;\n    display: inline-block;\n    vertical-align: top;\n    position: relative;\n    margin-bottom: 10px;\n}\n#okad-clients a>img {\n    max-height: 100%;\n    max-width: 100%;\n    width: auto;\n    height: auto;\n    position: absolute;\n    top: 0;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    margin: auto;\n    padding: 10px;\n\t/*filter: url(data:image/svg+xml;utf8;base64,Jmx0O3N2ZyB4bWxucz1cJ2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCcmZ3Q7Jmx0O2ZpbHRlciBpZD1cJ2dyYXlzY2FsZVwnJmd0OyZsdDtmZUNvbG9yTWF0cml4IHR5cGU9XCdtYXRyaXhcJyB2YWx1ZXM9XCcwLjMzMzMgMC4zMzMzIDAuMzMzMyAwIDAgMC4zMzMzIDAuMzMzMyAwLjMzMzMgMCAwIDAuMzMzMyAwLjMzMzMgMC4zMzMzIDAgMCAwIDAgMCAxIDBcJy8mZ3Q7Jmx0Oy9maWx0ZXImZ3Q7Jmx0Oy9zdmcmZ3Q7I2dyYXlzY2FsZQ==);\n\tfilter: gray;\n\t-webkit-filter: grayscale(100%);\n    background-color: transparent!important;*/\n    \n    display: block;\n    max-width: 100%;\n    height: auto;\n}\n#okad-clients a>img:hover {\n\tfilter: url(data:image/svg+xml;utf8;base64,Jmx0O3N2ZyB4bWxucz1cJ2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCcmZ3Q7Jmx0O2ZpbHRlciBpZD1cJ2dyYXlzY2FsZVwnJmd0OyZsdDtmZUNvbG9yTWF0cml4IHR5cGU9XCdtYXRyaXhcJyB2YWx1ZXM9XCcxIDAgMCAwIDAsIDAgMSAwIDAgMCwgMCAwIDEgMCAwLCAwIDAgMCAxIDBcJy8mZ3Q7Jmx0Oy9maWx0ZXImZ3Q7Jmx0Oy9zdmcmZ3Q7I2dyYXlzY2FsZQ==);\n\t-webkit-filter: grayscale(0%)\n}",
+          "_customTemplate": true,
+          "_anchor": "social-buttons1-26",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-20"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-21"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Publicações",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
+              "height": 128,
+              "alt": "Ok! Ad",
+              "link": "index.html",
+              "title": "Ok! Ad",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "PUBLICAÇÕES",
+          "meta": "PUBLICAÇÕES DOS SUBSITES",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\">\n    <figure class=\"snip1503\">\n      <img class=\"mbr-figure\" src=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample3.jpg\" alt=\"sample3\">\n      <figcaption>\n        <h3>Quais suas dúvidas sobre os fios ruivos??</h3>\n      </figcaption>\n      <a href=\"#\"></a>\n    </figure>\n    <figure class=\"snip1503\"><img class=\"mbr-figure\" src=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample2.jpg\" alt=\"sample2\">\n      <figcaption>\n        <h3>Gustav Purpleson</h3>\n      </figcaption>\n      <a href=\"#\"></a>\n    </figure>\n    <figure class=\"snip1503\"><img class=\"mbr-figure\" src=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample17.jpg\" alt=\"sample17\">\n      <figcaption>\n        <h3>Ingredia Nutrisha</h3>\n      </figcaption>\n      <a href=\"#\"></a>\n    </figure>\n    <figure class=\"snip1503\"><img class=\"mbr-figure\" src=\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample17.jpg\" alt=\"sample17\">\n      <figcaption>\n        <h3>Ingredia Nutrisha</h3>\n      </figcaption>\n      <a href=\"#\"></a>\n    </figure>\n</div>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway);\n.snip1503 {\n  /*font-family: 'Raleway', sans-serif;*/\n  position: relative;\n  float: left;\n  overflow: hidden;\n  margin: 10px 1%;\n  min-width: 230px;\n  max-width: 315px;\n  width: 100%;\n  color: #ffffff;\n  font-size: 16px;\n  /*background-color: #000000;*/\n}\n\n.snip1503 * {\n  -webkit-box-sizing: border-box;\n  box-sizing: border-box;\n  -webkit-transition: all 0.35s ease;\n  transition: all 0.35s ease;\n}\n\n.snip1503 img {\n  vertical-align: top;\n  max-width: 100%;\n}\n\n.snip1503 figcaption {\n  position: absolute;\n  top: 15px;\n  bottom: 15px;\n  left: 15px;\n  right: 15px;\n  z-index: 1;\n  border: 1px solid #ffffff;\n  overflow: hidden;\n  padding: 0;\n  box-shadow: 0 0 0 15px rgba(0, 0, 0, 0.8);\n}\n\n.snip1503 h3 {\n  padding: 7px 15px;\n  margin: 0;\n  font-weight: normal;\n  font-size: 1em;\n  letter-spacing: 2px;\n  display: inline-block;\n  border-bottom: 1px solid #fff;\n  border-right: 1px solid #fff;\n  background-color: rgba(0, 0, 0, 0.8);\n  -webkit-transform: translate(0%, -100%);\n  transform: translate(0%, -100%);\n  color: rgba(255, 255, 255, 0);\n}\n\n.snip1503 a {\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  z-index: 1;\n}\n\n.snip1503:hover > img,\n.snip1503.hover > img {\n  opacity: 0.5;\n}\n\n.snip1503:hover h3,\n.snip1503.hover h3 {\n  -webkit-transform: translate(0%, 0%);\n  transform: translate(0%, 0%);\n  color: #ffffff;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2m",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2r"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-2s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "animText1": "MOBILE",
+            "animText2": "AWESOME",
+            "animText3": "FREE",
+            "typeSpeed": 50,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "CREATE ",
+          "title2": "WEBSITES!",
+          "text": "Block with media and \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-extmsg-box3.jpg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 250,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extMsg-box3",
+          "_anchor": "extMsg-box3-2n",
+          "_customHTML": "<section class=\"mbr-section extMsg-box3\" data-rv-view=\"287\" style=\"background-color: rgb(46, 46, 46); padding-top: 150px; padding-bottom: 150px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-6 text-xs-center text-md-right content-size\">\n                  <div class=\"span-title\">\n                      <span class=\"mbr-section-title display-2 text-center pad-r mbr-editable-content\" code-editable-id=\"62\">CREATE </span><br>\n                      <span class=\"mbr-section-title display-2 element typedextMsg-box3-2n\" adress=\"typedextMsg-box3-2n\" firstel=\"MOBILE\" secondel=\"AWESOME\" thirdel=\"FREE\" typespeed=\"50\"></span><br>\n                      <span class=\"mbr-section-title display-2 text-center pad-r mbr-editable-content\" code-editable-id=\"63\">WEBSITES!</span>             \n                  </div>             \n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"64\">Block with media and \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n\n                  </div>\n\n                  <div class=\"left-button\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"65\">GET FREE TRIAL</a></div>\n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-valign-top col-md-6 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/img-extmsg-box3.jpg\"></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ennio21@gmail.com",
+            "alerts": {
+              "success": "Sua mensagem foi enviada!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2e"
+        }
+      ]
+    }
+  }
+}

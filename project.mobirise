@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "mbr3.okad.com.br",
-    "currentPage": "index.html",
+    "name": "okad",
+    "currentPage": "planos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -36,7 +36,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 103,
+    "uniqCompNum": 106,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -57,7 +57,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -67,7 +67,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -324,7 +324,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -399,7 +399,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -409,7 +409,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -430,10 +430,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -479,7 +479,8 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-j"
+          "_anchor": "ext_menu-j",
+          "_customCSS": ".nav-dropdown .btn {\n    padding-left: .4rem !important;\n    padding-right: .4rem !important;\n}\n.nav-item{\n    .link {\n        &:before {\n            content: \"\";\n            position: absolute;\n            width: 100%;\n            height: 2px;\n            bottom: 0;\n            left: 0;\n            background-color: @primaryColor;\n            visibility: hidden;\n            -webkit-transform: scaleX(0);\n            transform: scaleX(0);\n            -webkit-transition: all 0.3s ease-in-out 0s;\n            transition: all 0.3s ease-in-out 0s;\n        }\n        &:hover:before {\n            visibility: visible;\n            -webkit-transform: scaleX(1);\n            transform: scaleX(1);\n        }\n        &:hover{\n            color: #41a85f;\n        }\n        position: relative;\n        margin: 0.65rem;\n        font-size: 0.75rem;\n    }\n}\n// Menu not scrolled\n.navbar-dropdown {\n    .navbar-logo {\n        img {\n            height: 4rem;\n        }\n    }\n}\n// Menu scrolled\n.navbar-dropdown.navbar-short {\n    box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.46);\n    .navbar-logo {\n        img {\n            height: 3rem;\n        }\n    }\n}"
         },
         {
           "_params": {
@@ -497,7 +498,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "LIGUE PARA (75) 99112-5476",
+          "title": "LIGUE PARA (71) 9247-5916",
           "subtitle": "OU ESCREVA PARA NÓS",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR MENSAGEM</a>",
           "form": {
@@ -558,7 +559,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -634,7 +635,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -644,7 +645,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -731,8 +732,8 @@
             ".mbr-plan .list-group-item": {
               "border-color": "#cfcfcf"
             },
-            ".mbr-plan-title": {
-              "font-size": "30px"
+            ".mbr-plan-label B": {
+              "font-size": "11px"
             },
             ".mbr-section__container .mbr-section-title": {
               "font-size": "36px"
@@ -741,12 +742,12 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "firstType": "bg-primary",
+            "firstType": "",
             "secondType": "",
-            "thirdType": "",
+            "thirdType": "bg-primary",
             "fourthType": "",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -765,129 +766,126 @@
           "description2": "More details",
           "description3": "More details",
           "description4": "More details",
-          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Plano_INBOUND.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"assets/files/Plano_SIMPLES.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"assets/files/Plano_SUPER.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Plano_MEGA.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">+ DETALHES</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://wa.me/557192475916?text=Ol%C3%A1%20Jhan!%0A%0AVi%20os%20planos%20no%20site%20da%20OK!%20AD%20e%20queria%20tirar%20algumas%20d%C3%BAvidas%20com%20voc%C3%AA.&amp;source=okad-planos\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHAMAR NO WHATSAPP</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://wa.me/557192475916?text=Ol%C3%A1%20Jhan!%0A%0AVi%20os%20planos%20no%20site%20da%20OK!%20AD%20e%20queria%20tirar%20algumas%20d%C3%BAvidas%20com%20voc%C3%AA.&amp;source=okad-planos\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHAMAR NO WHATSAPP</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://wa.me/557192475916?text=Ol%C3%A1%20Jhan!%0A%0AVi%20os%20planos%20no%20site%20da%20OK!%20AD%20e%20queria%20tirar%20algumas%20d%C3%BAvidas%20com%20voc%C3%AA.&amp;source=okad-planos\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHAMAR NO WHATSAPP</a> ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://wa.me/557192475916?text=Ol%C3%A1%20Jhan!%0A%0AVi%20os%20planos%20no%20site%20da%20OK!%20AD%20e%20queria%20tirar%20algumas%20d%C3%BAvidas%20com%20voc%C3%AA.&amp;source=okad-planos\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHAMAR NO WHATSAPP</a> ",
           "_tags": [
             "Layout"
           ],
-          "title": "NOSSOS PLANOS",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "title1": "INBOUND",
-          "title2": "MEGA",
-          "title3": "SUPER",
-          "title4": "SIMPLES",
+          "title": "PLANOS",
+          "subtitle": "Planos sobre media para seu orçamento",
+          "title1": "SIMPLES",
+          "title2": "SUPER\n",
+          "title3": "MEGA\n",
+          "title4": "INBOUND\n",
           "subtitle1": "Description",
           "subtitle2": "Description",
           "subtitle3": "Description",
           "subtitle4": "Description",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "0",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "/mo.",
-          "period2": "/mo.",
-          "period3": "/mo.",
-          "period4": "/mo.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">Criação diária</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Direct Lead</li><li class=\"list-group-item\">Subsite</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">10 criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Subsite</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">8 criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Instagram</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Planejamento</li><li class=\"list-group-item\">5 Criações</li><li class=\"list-group-item\">Fan Page do Facebook</li><li class=\"list-group-item\">Publicações</li><li class=\"list-group-item\">Suporte</li></ul>",
+          "label1": "<span class=\"fa fa-trophy mbr-iconfont mbr-iconfont-btn\"></span> O QUERIDINHO",
+          "label2": "<span class=\"fa fa-trophy mbr-iconfont\" style=\"font-size: 40px; color: rgb(243, 198, 73);\"></span><b>&nbsp;</b>",
+          "label3": "<span class=\"fa fa-trophy mbr-iconfont\" style=\"font-size: 30px; color: rgb(243, 198, 73);\"></span>",
+          "label4": "<span class=\"fa fa-trophy mbr-iconfont mbr-iconfont-btn\"></span> O QUERIDINHO",
+          "currency1": "R$",
+          "currency2": "R$",
+          "currency3": "R$",
+          "currency4": "R$",
+          "price1": "200",
+          "price2": "300",
+          "price3": "600",
+          "price4": "900",
+          "period1": "/mês",
+          "period2": "/mês",
+          "period3": "/mês",
+          "period4": "/mês",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Assessoria de conteúdo</li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas</li><li class=\"list-group-item\">5 criações mensais</li><li class=\"list-group-item\">Gestão de 1 (uma) rede social</li><li class=\"list-group-item\">Suporte de comentários nos dias de postagem</li><li class=\"list-group-item\">Relatório de postagens nas redes sociais</li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Tudo que o plano SIMPLES tem</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">8 criações mensais</span><br></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Tudo que o plano SUPER tem</li><li class=\"list-group-item\">2 (duas) redes sociais</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">10 criações + 5 fotos</span></li><li class=\"list-group-item\">Interação com clientes e seguidores diariamente, em especial por comentários</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Aumento dos serguidores reais e do seu interesse no Instagram</span><br></li><li class=\"list-group-item\">4% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Tudo que o plano MEGA tem</li><li class=\"list-group-item\">Planejamento de ações e conteúdo</li><li class=\"list-group-item\">2 publicações por dia (1 criação + 2 fotos)&nbsp;</li><li class=\"list-group-item\">Gestão dos Stories</li><li class=\"list-group-item\">7% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li><li class=\"list-group-item\">Um site</li><li class=\"list-group-item\">Um analista de marketing dando atenção às redes sociais</li><li class=\"list-group-item\">Relatório mensal detalhado com os resultados obtidos</li><li class=\"list-group-item\">Interação mais intensa com os seguidores do instagram, inclusive através do direct</li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-q",
-          "_customCSS": ".card-text {\n    display: none;\n}\n\n.mbr-plan .card-title {\n    margin-bottom: 0;\n}\n\n.mbr-plan-header {\n    padding: 2rem 0;\n}\n\nsmall.mbr-plan-subtitle {\n    display: none;\n}\n\n.mbr-plan-list {\n    padding-top: 0;\n}\n\n.mbr-plan-body.card-block {\n    padding-top: 1rem;\n}"
+          "_anchor": "pricing-table2-2w",
+          "_customCSS": "small.mbr-plan-subtitle, small.mbr-plan-price-desc{display:none}\nsmall.mbr-price-term {\n    font-size: 1rem;\n}\n.mbr-plan-btn > a.btn {\n    padding: .7rem;\n}\n.mbr-plan-title {\n    font-size: 2rem;\n}\n.mbr-plan .list-group-item {\n    line-height: inherit;\n    padding-top: 1rem;\n    padding-bottom: 1rem;\n}\n.mbr-plan-body {\n    padding-top: 0;\n}\n.mbr-plan-list {\n    padding-bottom: 1rem;\n    padding-top: 0;\n}\n\n.mbr-price-table > .row > div:nth-child(1) > .mbr-plan > .mbr-plan-header {\n    background-color: @primaryColor !important; /* green*/\n}\n.mbr-price-table > .row > div:nth-child(2) > .mbr-plan > .mbr-plan-header {\n    background-color: cornflowerblue !important; /* blue*/\n}\n.mbr-price-table > .row > div:nth-child(3) > .mbr-plan > .mbr-plan-header {\n    background-color: #ffff62 !important; /* yellow */\n}\n.mbr-price-table > .row > div:nth-child(4) > .mbr-plan > .mbr-plan-header {\n    background-color: mediumpurple !important; /* puple */\n}"
         },
         {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
+            "collapseAll": true,
+            "tabs": "6",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "description1": "More details",
-          "description2": "More details",
-          "description3": "More details",
-          "description4": "More details",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "title": "Perguntas e Respostas",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseOne_60\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é acessoria de conteúdo?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseTwo_60\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">O que são criações e postagens?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseThree_60\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Quantas criações e postagens são feitas nas redes sociais?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseFour_60\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Quais redes sociais a OK! AD trabalha?</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseFive_60\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Vou ter problemas de direitos autorais com as imagens nas redes sociais?</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseSix_60\" aria-expanded=\"true\" aria-controls=\"collapseSix\">O que tem no site?</a>",
+          "text1": "Assessoria de conteúdo é uma estratégia baseada na construção de um forte relacionamento com os clientes, conseguido através da entrega de conteúdo valioso e altamente relevante para sua persona.",
+          "text2": "<p>Descrever</p>",
+          "text3": "<p>aaa</p>",
+          "text4": "Instagram e Facebook",
+          "text5": "<p><b>NÃO!</b>&nbsp;Todas as imagens que a OK! AD trabalha são licenciadas e você terá direito de uso das mesmas.</p>",
+          "text6": "<p>O site tem um conjunto de recursos, dentre eles:</p>* Capa: imagem ou slider na página inicial<br><p>* Informações de contato: telefones, WhatsApp, email, endereços, mapa e formulário de contatos;</p><p>* Postagens: todas as postagens criadas para as redes sociais</p><p>* Blog: sua empresa tem um blog otimizado para os resultados de busca do Google</p><p>* Galeria: álbuns de fotos e vídeos dos eventos e festejos realizados pela empresa</p><p>* Newsletter: coleta de endereço de email para fazer mala direta</p>",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Layout"
+            "Extesões"
           ],
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "title1": "STANDARD",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
-          "title4": "ULTIMATE",
-          "subtitle1": "Description",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "0",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "/mo.",
-          "period2": "/mo.",
-          "period3": "/mo.",
-          "period4": "/mo.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-2t"
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-2y"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "collapseAll": true,
+            "tabs": "3",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Accordion FAQ",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseOne_61\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é gestão do stories?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseTwo_61\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Pergunta 1</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseThree_61\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Pergunta 2</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Stories é um recurso disponível nas redes sociais Instagram e Facebook. Nele se é feito publicações exibidas por 24h. Os stories fica em destaque nas redes sociais. Os usuários amam os stories.</p>",
+          "text2": "<p>Resposta</p>",
+          "text3": "<p>Respota</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-2z"
         },
         {
           "_params": {
@@ -903,7 +901,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -978,7 +976,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -988,7 +986,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1289,7 +1287,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1364,7 +1362,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -1374,7 +1372,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1816,7 +1814,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1892,7 +1890,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -1902,7 +1900,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2073,7 +2071,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2148,7 +2146,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -2158,7 +2156,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2179,10 +2177,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3004,7 +3002,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3079,7 +3077,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -3089,7 +3087,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3239,7 +3237,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3314,7 +3312,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -3324,7 +3322,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3501,7 +3499,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3576,7 +3574,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -3586,7 +3584,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3915,7 +3913,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://api.whatsapp.com/send?phone=5575991125476\" target=\"_blank\">+55 75 99112-5476</a><br>",
+          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
           "form": {
             "title": "MESSAGE",

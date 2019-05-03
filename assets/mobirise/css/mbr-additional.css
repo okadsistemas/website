@@ -974,6 +974,17 @@ h6,
 #ext_menu-n .dropdown-item[aria-expanded="true"] {
   color: #41a85f!important;
 }
+#pricing-table2-2w {
+  /*
+ * VARS
+ */
+  /*
+ * MIXINS
+ */
+  /*
+ * STYLE
+ */
+}
 #pricing-table2-2w .mbr-plan-header,
 #pricing-table2-2w .mbr-plan-body {
   background-color: #f4f4f4;
@@ -997,46 +1008,68 @@ h6,
 #pricing-table2-2w .mbr-section__container .mbr-section-title {
   font-size: 36px;
 }
-#pricing-table2-2w small.mbr-plan-subtitle,
-#pricing-table2-2w small.mbr-plan-price-desc {
-  display: none;
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(4) > .mbr-plan > .mbr-plan-header {
+  background-color: mediumpurple !important;
 }
-#pricing-table2-2w small.mbr-price-term {
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(4) > .mbr-plan > .mbr-plan-header h3.mbr-plan-title,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(4) > .mbr-plan > .mbr-plan-header small.mbr-plan-subtitle,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(4) > .mbr-plan > .mbr-plan-header small.mbr-plan-price-desc {
+  color: #e0e0e0;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(3) > .mbr-plan > .mbr-plan-header {
+  background-color: #ffff62 !important;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(3) > .mbr-plan > .mbr-plan-header h3.mbr-plan-title,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(3) > .mbr-plan > .mbr-plan-header small.mbr-plan-subtitle,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(3) > .mbr-plan > .mbr-plan-header small.mbr-plan-price-desc {
+  color: #1f1f1f;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(2) > .mbr-plan > .mbr-plan-header {
+  background-color: cornflowerblue !important;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(2) > .mbr-plan > .mbr-plan-header h3.mbr-plan-title,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(2) > .mbr-plan > .mbr-plan-header small.mbr-plan-subtitle,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(2) > .mbr-plan > .mbr-plan-header small.mbr-plan-price-desc {
+  color: #e0e0e0;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(1) > .mbr-plan > .mbr-plan-header {
+  background-color: #41a85f !important;
+}
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(1) > .mbr-plan > .mbr-plan-header h3.mbr-plan-title,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(1) > .mbr-plan > .mbr-plan-header small.mbr-plan-subtitle,
+#pricing-table2-2w .mbr-price-table > .row div:nth-child(1) > .mbr-plan > .mbr-plan-header small.mbr-plan-price-desc {
+  color: #e0e0e0;
+}
+#pricing-table2-2w .mbr-price-table > .row small.mbr-price-term {
   font-size: 1rem;
 }
-#pricing-table2-2w .mbr-plan-btn > a.btn {
-  padding: .7rem;
-}
-#pricing-table2-2w .mbr-plan-title {
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-title {
   font-size: 2rem;
 }
-#pricing-table2-2w .mbr-plan .list-group-item {
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan .list-group-item {
   line-height: inherit;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-#pricing-table2-2w .mbr-plan-body {
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-header {
+  padding: 2rem !important;
+}
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-header .card-title {
+  margin: 0 !important;
+}
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-header .mbr-price,
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-header .mbr-plan-price-desc {
+  display: none;
+}
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-body {
   padding-top: 0;
 }
-#pricing-table2-2w .mbr-plan-list {
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-body .mbr-plan-list {
   padding-bottom: 1rem;
   padding-top: 0;
 }
-#pricing-table2-2w .mbr-price-table > .row > div:nth-child(1) > .mbr-plan > .mbr-plan-header {
-  background-color: #41a85f !important;
-  /* green*/
-}
-#pricing-table2-2w .mbr-price-table > .row > div:nth-child(2) > .mbr-plan > .mbr-plan-header {
-  background-color: cornflowerblue !important;
-  /* blue*/
-}
-#pricing-table2-2w .mbr-price-table > .row > div:nth-child(3) > .mbr-plan > .mbr-plan-header {
-  background-color: #ffff62 !important;
-  /* yellow */
-}
-#pricing-table2-2w .mbr-price-table > .row > div:nth-child(4) > .mbr-plan > .mbr-plan-header {
-  background-color: mediumpurple !important;
-  /* puple */
+#pricing-table2-2w .mbr-price-table > .row .mbr-plan .mbr-plan-body .mbr-plan-btn > a.btn {
+  padding: .7rem;
 }
 #contacts4-o P {
   font-size: 16px;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "okad",
-    "currentPage": "planos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -36,8 +36,8 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 106,
-    "versionPublish": "4.9.5",
+    "uniqCompNum": 109,
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteFonts": []
   },
@@ -67,7 +67,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -409,7 +409,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -645,7 +645,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -801,18 +801,18 @@
           "period4": "/ano",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>ACOMPANHAMENTO PROFISSIONAL</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Assessoria de conteúdo</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>SEGURANÇA JURÍDICA</b></span><br></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais</li><li class=\"list-group-item\"><b>INSTAGRAM ou FACEBOOK</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Suporte de comentários nos dias de postagem</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>RELATÓRIO</b></span><br></li><li class=\"list-group-item\">Relatório de postagens nas redes sociais</li><li class=\"list-group-item\"><b>SUPORTE</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li><li class=\"list-group-item\"><b>DÊ UM PLUS</b><br>(adicionados a parte)</li><li class=\"list-group-item\">Aumento dos serguidores reais e do seu interesse no Instagram</li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>ACOMPANHAMENTO PROFISSIONAL\n</b></li><li class=\"list-group-item\">Assessoria de conteúdo\n</li><li class=\"list-group-item\"><b>SEGURANÇA JURÍDICA\n</b></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais\n</li><li class=\"list-group-item\"><b>INSTAGRAM &amp; FACEBOOK\n</b></li><li class=\"list-group-item\">Suporte de comentários nos dias de postagem\n</li><li class=\"list-group-item\"><b>RELATÓRIO\n</b></li><li class=\"list-group-item\">Relatório de postagens nas redes sociais\n</li><li class=\"list-group-item\"><b>SUPORTE\n</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li><li class=\"list-group-item\"><b>DÊ UM PLUS</b><br>(adicionados a parte)\n</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Aumento dos serguidores reais e do seu interesse no Instagram</span><br></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>ACOMPANHAMENTO PROFISSIONAL</b></li><li class=\"list-group-item\">Assessoria de conteúdo</li><li class=\"list-group-item\"><b>SEGURANÇA JURÍDICA\n</b></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais</li><li class=\"list-group-item\"><b>INSTAGRAM &amp; FACEBOOK\n</b></li><li class=\"list-group-item\">Interação com clientes e seguidores diariamente, em especial por comentários</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Aumento dos serguidores reais e do seu interesse no Instagram</span></li><li class=\"list-group-item\"><b>PAYBACK</b></li><li class=\"list-group-item\">4% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li><li class=\"list-group-item\"><b>RELATÓRIO\n</b></li><li class=\"list-group-item\">Relatório de postagens nas redes sociais\n</li><li class=\"list-group-item\"><b>SUPORTE\n</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>ACOMPANHAMENTO PROFISSIONAL</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Um analista de marketing dando atenção às redes sociais</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Marketing estratégico</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Planejamento de ações e conteúdo</span><br></li><li class=\"list-group-item\"><b>SEGURANÇA JURÍDICA\n</b></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais</li><li class=\"list-group-item\"><b>INSTAGRAM &amp; FACEBOOK</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Gestão dos Stories</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Interação mais intensa com os seguidores, inclusive através do Instagram Direct e Facebook Messenger<br></span></li><li class=\"list-group-item\"><b>PAYBACK</b></li><li class=\"list-group-item\">7% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li><li class=\"list-group-item\"><b>RELATÓRIO</b></li><li class=\"list-group-item\">Relatório mensal detalhando os resultados obtidos</li><li class=\"list-group-item\"><b>SUPORTE\r</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>ACOMPANHAMENTO PROFISSIONAL</b></li><li class=\"list-group-item\">Assessoria de conteúdo</li><li class=\"list-group-item\"><b>SEGURANÇA JURÍDICA\n</b></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais</li><li class=\"list-group-item\"><b>INSTAGRAM &amp; FACEBOOK\n</b></li><li class=\"list-group-item\">Interação com clientes e seguidores diariamente, em especial por comentários</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Aumento dos serguidores reais e do seu interesse no Instagram</span></li><li class=\"list-group-item\"><b>ANUNCIOS PAGOS</b></li><li class=\"list-group-item\">4% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li><li class=\"list-group-item\"><b>RELATÓRIO\n</b></li><li class=\"list-group-item\">Relatório de postagens nas redes sociais</li><li class=\"list-group-item\"><b>SITE</b></li><li class=\"list-group-item\">Neste plano você &nbsp;pode ter um site.</li><li class=\"list-group-item\"><b>SUPORTE\n</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>ACOMPANHAMENTO PROFISSIONAL</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Um analista para elaborar um plano de marketing estratégico com ações e conteúdos focado nas redes sociais</span></li><li class=\"list-group-item\"><b>SEGURANÇA JURÍDICA\n</b></li><li class=\"list-group-item\">Criações e postagens com imagens licenciadas, sem risco de processo por direitos autorais</li><li class=\"list-group-item\"><b>INSTAGRAM &amp; FACEBOOK</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Gestão dos Stories</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Interação mais intensa com os seguidores, inclusive através do Instagram Direct e Facebook Messenger<br></span></li><li class=\"list-group-item\"><b>ANUNCIOS PAGOS</b></li><li class=\"list-group-item\">7% do valor investido em anúncios pagos nas redes sociais para impulsionar posts</li><li class=\"list-group-item\"><b>RELATÓRIO</b></li><li class=\"list-group-item\">Relatório mensal detalhando os resultados obtidos</li><li class=\"list-group-item\"><b>SITE\n</b></li><li class=\"list-group-item\">Neste plano você  pode ter um site.</li><li class=\"list-group-item\"><b>SUPORTE\n</b></li><li class=\"list-group-item\">Suporte ao cliente por WhatsApp</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-2w",
-          "_customCSS": "/*\n * VARS\n */\n@hidePrices: true;\n@planColors: @primaryColor, cornflowerblue, #ffff62, mediumpurple;\n/*\n * MIXINS\n */\n.planColors (@index) when (@index > 0){\n    @textColor: contrast(extract(@planColors, @index), lighten(black, 12%), darken(white, 12%));\n    div:nth-child(@{index}) > .mbr-plan > .mbr-plan-header {\n        background-color: extract(@planColors, @index) !important;\n        h3.mbr-plan-title,\n        small.mbr-plan-subtitle, \n        small.mbr-plan-price-desc{\n            color: @textColor;   \n        }\n    }\n    .planColors(@index - 1);\n}\n/*\n * STYLE\n */\n.mbr-price-table > .row {\n    .planColors(length(@planColors));\n        small.mbr-price-term {\n        font-size: 1rem;\n    }\n    .mbr-plan{\n        .mbr-plan-title {\n            font-size: 2rem;\n        }\n        .mbr-plan .list-group-item {\n            line-height: inherit;\n            padding-top: 1rem;\n            padding-bottom: 1rem;\n        }\n        .mbr-plan-header{\n            & when (@hidePrices){\n                padding: 2rem !important;\n            }\n            .card-title{\n                & when (@hidePrices){\n                    margin: 0 !important;\n                }\n            }\n            .mbr-price, .mbr-plan-price-desc{\n                & when (@hidePrices){\n                    display: none;\n                }\n            }\n        }\n        .mbr-plan-body {\n            padding-top: 0;\n            .mbr-plan-list {\n                padding-bottom: 1rem;\n                padding-top: 0;\n            }\n            .mbr-plan-btn > a.btn {\n                padding: .7rem;\n            }\n        }\n    }\n}\n\n"
+          "_customCSS": "/*\n * VARS\n */\n@hidePrices: true;\n@planColors: @primaryColor, cornflowerblue, #ffff62, mediumpurple;\n/*\n * MIXINS\n */\n.planColors (@index) when (@index > 0){\n    @textColor: contrast(extract(@planColors, @index), lighten(black, 12%), darken(white, 12%));\n    div:nth-child(@{index}) > .mbr-plan > .mbr-plan-header {\n        background-color: extract(@planColors, @index) !important;\n        h3.mbr-plan-title,\n        small.mbr-plan-subtitle, \n        small.mbr-plan-price-desc{\n            color: @textColor;   \n        }\n    }\n    .planColors(@index - 1);\n}\n/*\n * STYLE\n */\n.mbr-price-table > .row {\n    .planColors(length(@planColors));\n        small.mbr-price-term {\n        font-size: 1rem;\n    }\n    .mbr-plan{\n        .mbr-plan-title {\n            font-size: 2rem;\n        }\n        .list-group-item {\n            line-height: inherit;\n            padding-top: 1rem;\n            padding-bottom: 1rem;\n        }\n        .mbr-plan-header{\n            & when (@hidePrices){\n                padding: 2rem !important;\n            }\n            .card-title{\n                & when (@hidePrices){\n                    margin: 0 !important;\n                }\n            }\n            .mbr-price, .mbr-plan-price-desc{\n                & when (@hidePrices){\n                    display: none;\n                }\n            }\n        }\n        .mbr-plan-body {\n            padding-top: 0;\n            .mbr-plan-list {\n                padding-bottom: 1rem;\n                padding-top: 0;\n            }\n            .mbr-plan-btn > a.btn {\n                padding: .7rem;\n            }\n        }\n    }\n}\n\n"
         },
         {
           "_params": {
             "showTitle": true,
             "collapseAll": true,
             "tabs": "6",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
@@ -827,25 +827,31 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Perguntas e Respostas",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseOne_60\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é acessoria de conteúdo?</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseTwo_60\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">O que são criações e postagens?</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseThree_60\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Quantas criações e postagens são feitas nas redes sociais?</a>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseFour_60\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Quais redes sociais a OK! AD trabalha?</a>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseFive_60\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Vou ter problemas de direitos autorais com as imagens nas redes sociais?</a>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_60\" data-core=\"\" href=\"#collapseSix_60\" aria-expanded=\"true\" aria-controls=\"collapseSix\">O que tem no site?</a>",
-          "text1": "Assessoria de conteúdo é uma estratégia baseada na construção de um forte relacionamento com os clientes, conseguido através da entrega de conteúdo valioso e altamente relevante para sua persona.",
-          "text2": "<p>Descrever</p>",
-          "text3": "<p>aaa</p>",
+          "title": "<b>PERGUNTAS E RESPOSTAS</b>",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseOne_0\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é assessoria de conteúdo?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseTwo_0\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">O que são criações e postagens?</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseThree_0\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Quantas criações e postagens são feitas nas redes sociais?</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseFour_0\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Quais redes sociais a OK! AD trabalha?</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseFive_0\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Vou ter problemas de direitos autorais com as imagens nas redes sociais?</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_0\" data-core=\"\" href=\"#collapseSix_0\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Quais recursos o site tem?</a>",
+          "text1": "Um profissional do marketing vai dar orientações sobre quais tipos de conteudo de marketing deve ser criado para o seu negócio.",
+          "text2": "<p>Criações são artes de webdesigner para banners, maketing, outdoors, e etc. As postagens são as imagens publicadas nas redes sociais. A imagem da postagem é também um arte.</p>",
+          "text3": "<p>Depende de qual plano foi contratado.</p>",
           "text4": "Instagram e Facebook",
           "text5": "<p><b>NÃO!</b>&nbsp;Todas as imagens que a OK! AD trabalha são licenciadas e você terá direito de uso das mesmas.</p>",
-          "text6": "<p>O site tem um conjunto de recursos, dentre eles:</p>* Capa: imagem ou slider na página inicial<br><p>* Informações de contato: telefones, WhatsApp, email, endereços, mapa e formulário de contatos;</p><p>* Postagens: todas as postagens criadas para as redes sociais</p><p>* Blog: sua empresa tem um blog otimizado para os resultados de busca do Google</p><p>* Galeria: álbuns de fotos e vídeos dos eventos e festejos realizados pela empresa</p><p>* Newsletter: coleta de endereço de email para fazer mala direta</p>",
+          "text6": "<p>O site tem um conjunto de recursos, dentre eles:</p>* Capa: imagem ou slider na página inicial<br><p>* Informações de contato: telefones, WhatsApp, email, endereços, mapa e formulário de contatos;</p><p>* Postagens: todas as postagens criadas para as redes sociais</p><p>* Blog: sua empresa tem um blog otimizado para os resultados de busca do Google</p><p>* Galeria: álbuns de fotos e vídeos dos eventos e festejos realizados pela empresa</p><p>* Newsletter: coleta de endereço de email para fazer mala direta</p><br><p>Você pode usar um domínio para seu site, por exemplo, www.loja.com.br</p>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extesões"
           ],
           "_name": "extAccordion1",
-          "_anchor": "extAccordion1-2y"
+          "_anchor": "extAccordion1-2y",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -868,15 +874,15 @@
             "overlayOpacity": 0.5
           },
           "title": "Accordion FAQ",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseOne_61\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é gestão do stories?</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseTwo_61\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Pergunta 1</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_61\" data-core=\"\" href=\"#collapseThree_61\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Pergunta 2</a>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseOne_1\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>O que é gestão do stories?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseTwo_1\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">O que é Instagram Direct e Facebook Messenger?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseThree_1\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Como é feito o aumento de seguidores reais e que tenham interesse no meu negócio?</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>Stories é um recurso disponível nas redes sociais Instagram e Facebook. Nele se é feito publicações exibidas por 24h. Os stories fica em destaque nas redes sociais. Os usuários amam os stories.</p>",
-          "text2": "<p>Resposta</p>",
-          "text3": "<p>Respota</p>",
+          "text1": "<p>Stories é um recurso disponível nas redes sociais Instagram e Facebook. Nele se é feito publicações exibidas por 24h. Os stories fica em destaque nas redes sociais, portanto muita gente vê e interage com eles. Os usuários amam os stories.</p>",
+          "text2": "<p>Ambos são recursos por onde os usuários das redes sociais conversam entre si. O meio de conversa do Facebook se chama <b>Messenger</b>&nbsp;e o do Instagram se chama <b>Direct</b>.</p>",
+          "text3": "<p>Uma inteligência artificial analisa o perfil dos usuários do Instagram para saber se ele tem afinidade com o seu tipo de negócio e começa a interagir com o usuário. Por ser uma inteligência artificial o resultado é espetacular.</p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -986,7 +992,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1350,538 +1356,11 @@
         }
       ]
     },
-    "criacao-de-logos.html": {
-      "settings": {
-        "meta_descr": "Identidade visual da empresa com criação de logomarcas, panfletos, folders, posts para redes sociais e manual para utilização da identidade visual da empresa",
-        "title": "Identidade Visual: criação de logos e artes para impressão",
-        "order": 6
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
-          "_tags": [
-            "Layout"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-1727x762.png",
-              "height": 128,
-              "alt": "Ok! Ad",
-              "link": "index.html",
-              "title": "Ok! Ad",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ok! Ad</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-13"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/criar-logo-bg-2000x1887.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e9e9e9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/criar-logo-ind-centro-2475x2186.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "layers",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "mobile",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "desktop",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "video",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "edit",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title": "FEATURES",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "feature_title1": "Innovative ideas",
-          "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title2": "Retina ready",
-          "feature_subtitle2": "High resolution screens friendly",
-          "feature_text2": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title3": "Translation ready",
-          "feature_subtitle3": "Find a common language with anyone",
-          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "Totally responsive",
-          "feature_subtitle4": "Suits well all devices and screen sizes",
-          "feature_text4": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title5": "Sharp solutions",
-          "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title6": "Awesome parallax",
-          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
-          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extesões"
-          ],
-          "_name": "extFeatures8",
-          "_anchor": "extFeatures8-17",
-          "_customHTML": "<section class=\"mbr-cards features6 icons mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"113\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/criar-logo-bg.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\t<div class=\"mbr-section mbr-section-nopadding\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"col-xs-12 text-xs-center\">\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<div class=\"icon-features\">\n\t\t<div class=\"features6-container container\">\n\t\t\t<div class=\"features-left col-xl-4\">\n\t\t\t\t<div class=\"features-box\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-3.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"features-box last\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-1.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"col-xl-4 image\"><img src=\"@PROJECT_PATH@/assets/images/criar-logo-ind-centro.png\" class=\"central-image\"></div>\n\t\t\t<div class=\"features-right col-xl-4\">\n\t\t\t\t<div class=\"features-box\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-2.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"features-box last\">\n\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t<div class=\"image\"><img class=\"featured-cover-items-img\" src=\"@PROJECT_PATH@/assets/images/criar-logo-banner-4.png\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".feature-title, .description {\n  color: #232323;\n}\n.feature-subtitle {\n  color: #8c8c8c;\n}\nimg.featured-cover-items-img {\n    max-width: 60%;\n    padding-top: 2rem;\n    padding-bottom: 2rem;\n}",
-          "_customTemplate": true
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "FÁBRICA DE CRIAÇÕES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "_tags": [
-            "Layout"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato.html#form1-m\" data-toolbar=\"-mbrBtnMove\">ORÇAMENTO</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"criacao-de-logos.html#extFeatures3-18\" data-toolbar=\"-mbrBtnMove\">QUERO SABER MAIS</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-19"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.8
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "print",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "javascript://",
-              "size": 0,
-              "color": "#c39f76",
-              "newWindow": false
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "share-alt",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "javascript://",
-              "size": 0,
-              "color": "#c39f76",
-              "newWindow": false
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
-              "active": true,
-              "link": "javascript://",
-              "size": 0,
-              "color": "#c39f76",
-              "newWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "note-book-write",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "javascript://",
-              "size": 0,
-              "color": "#c39f76",
-              "newWindow": false
-            }
-          },
-          "title1": "Materiais impressos",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Fazemos arte para materiais impressos como panfletos, folders e cartões de visitas.",
-          "title2": "Redes Sociais\n",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Criação de posters para as redes sociais com foco no que você precisa divulgar e atrair.",
-          "title3": "Logomarcas e identidade visual",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Criação e reformulação de logomarca e identidade visual da empresa como o todo.",
-          "title4": "Manual da marca\r",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "O manual da marca é um norte para manter a identidade visual unifomizada.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extesões"
-          ],
-          "_name": "extFeatures3",
-          "_anchor": "extFeatures3-18",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "@primaryColor !important"
-            },
-            ".wraper": {
-              "border-color": "@primaryColor !important"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": false,
-                "text": "A minha empresa tem 10 anos e tinha apenas uma logomarca simples. Depois de contratar eu tenho uma identidade visual completa com a logomarca reformulada e fardamentos padronizados. Excelente trabalho!",
-                "authorName": "Antônia Brandão",
-                "authorBio": "Empresária",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": true,
-                "text": "Abri uma empresa no ramo alimentício e precisava de uma identidade visual para atuar no mercado. O material produzido é excelente. Ótimo custo benefício.",
-                "authorName": "Paulo Andrade",
-                "authorBio": "Empresário",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@-blocks/components/_images/face2.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Estava precisando de uma arte de qualidade para panfletos e folders da minha franquia. O trabalho entregue pela Ok! Ad foi espetacular. Parabéns!</p>",
-                "authorName": "Rita de Cássia",
-                "authorBio": "Gerente",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@-blocks/components/_images/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              }
-            ]
-          },
-          "title": "DEPOIMENTOS",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extesões"
-          ],
-          "_name": "extTestimonials1",
-          "_anchor": "extTestimonials1-1a",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>Contatos</strong><br><span class=\"imind-cloud-email mbr-iconfont\"></span>&nbsp;thiago@okad.com.br <br><span class=\"socicon socicon-whatsapp mbr-iconfont\"></span>&nbsp; &nbsp; &nbsp;<a href=\"https://wa.me/557192475916?source=okad-footer\" target=\"_blank\">+55 71 9247-5916</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"sobre-a-okad.html\">Sobre nós</a></li><li><a class=\"text-white\" href=\"time-da-okad.html\">Time</a></li><li><a class=\"text-white\" href=\"entre-pro-time-da-okad.html\">Trabalhe conosco</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "ennio21@gmail.com",
-            "alerts": {
-              "success": "Sua mensagem foi enviada!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Nome*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "E-mail*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Fone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensagem"
-              }
-            }
-          },
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-14",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Desenvolvido por <a href=\"https://enniosousa.com.br\" target=\"_blank\">Ennio Sousa</a><br>Copyright (c) 2018 - Ok! Anuncie",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-15"
-        }
-      ]
-    },
     "sobre-a-okad.html": {
       "settings": {
         "meta_descr": "A Ok! Ad é uma agencia de marketing digital e mídias sociais com mais de 250 clientes em todo o Brasil",
         "title": "Sobre a Ok! Ad",
-        "order": 5,
+        "order": 6,
         "header_custom": ""
       },
       "components": [
@@ -1900,7 +1379,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2138,7 +1617,7 @@
       "settings": {
         "meta_descr": "Nosso time é mais do que qualificado, pois é composto por especialistas",
         "title": "Time da Ok! Ad",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2156,7 +1635,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3069,7 +2548,7 @@
       "settings": {
         "meta_descr": "Trabalho freelancer para criação de arte gráfica e postagens para as redes sociais",
         "title": "Entre pro time da Ok! Ad",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3087,7 +2566,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3304,7 +2783,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Clientes",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3322,7 +2801,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -3566,7 +3045,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Publicações",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3584,7 +3063,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"criacao-de-logos.html\">CRIAÇÃO DE LOGOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PREÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INÍCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PUBLICAÇÕES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inbound-marketing.html#header3-11\">INBOUND MARKETING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"planos.html#pricing-table2-q\">PLANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html#form1-m\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://wa.me/557192475916?source=okad-navbar\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CHAMA NO WHATSAPP</a></li>",
           "_tags": [
             "Layout"
           ],
